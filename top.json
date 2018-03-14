@@ -1,0 +1,573 @@
+{
+  "items" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 928462
+    },
+    "genres" : [ "brazilian hip hop" ],
+    "href" : "https://api.spotify.com/v1/artists/2d9LRvQJnAXRijqIJDDs2K",
+    "id" : "2d9LRvQJnAXRijqIJDDs2K",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a320810b7abb77f7a384a415538938546f06b5bd",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/da3bf159a2f1b9157e2027a78229e2c527bd77ad",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/c94cd49b68550592d2e198af1ed82f1684bd4dcc",
+      "width" : 160
+    } ],
+    "name" : "Emicida",
+    "popularity" : 66,
+    "type" : "artist",
+    "uri" : "spotify:artist:2d9LRvQJnAXRijqIJDDs2K"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7Brxri4l1ATShikyHXsEr6"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 496025
+    },
+    "genres" : [ "mpb", "rock gaucho", "samba" ],
+    "href" : "https://api.spotify.com/v1/artists/7Brxri4l1ATShikyHXsEr6",
+    "id" : "7Brxri4l1ATShikyHXsEr6",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8354d4871ce4c1d79b0aaabb236df9c064134d3a",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/f069045489ca0c5cb6ce0aa3d304e9392f0ee6c9",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/f6928f86ad4eb6b42f1907ef4e6b7e65243c22b1",
+      "width" : 160
+    } ],
+    "name" : "Los Hermanos",
+    "popularity" : 64,
+    "type" : "artist",
+    "uri" : "spotify:artist:7Brxri4l1ATShikyHXsEr6"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4qeuGyDAaXAa1wuWcy0KuV"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 33867
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/4qeuGyDAaXAa1wuWcy0KuV",
+    "id" : "4qeuGyDAaXAa1wuWcy0KuV",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c4b3d9a89f546463e34376d64b6949405b9b2f4d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c5c29eeef6fd648e1d9d28f7ab9b463a83ff0cdb",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/6d922a050e7772901dcd6751acb1dd8d9e8183f5",
+      "width" : 64
+    } ],
+    "name" : "Mc Troia",
+    "popularity" : 50,
+    "type" : "artist",
+    "uri" : "spotify:artist:4qeuGyDAaXAa1wuWcy0KuV"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 5974132
+    },
+    "genres" : [ "album rock", "classic rock", "hard rock", "heavy christmas", "rock" ],
+    "href" : "https://api.spotify.com/v1/artists/711MCceyCBcFnzjGY4Q7Un",
+    "id" : "711MCceyCBcFnzjGY4Q7Un",
+    "images" : [ {
+      "height" : 1500,
+      "url" : "https://i.scdn.co/image/a16c5d95ede008ec905d6ca6d1b5abbf39ad4566",
+      "width" : 1000
+    }, {
+      "height" : 960,
+      "url" : "https://i.scdn.co/image/fb26e1c0e5779ac46b225651494ac14b6b8ebba7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/3d00e92fb05c62e2faf2908b34e6f24e0a4cb213",
+      "width" : 200
+    }, {
+      "height" : 96,
+      "url" : "https://i.scdn.co/image/2940421b19c6b8a26b073ef340290516ea0399e1",
+      "width" : 64
+    } ],
+    "name" : "AC/DC",
+    "popularity" : 83,
+    "type" : "artist",
+    "uri" : "spotify:artist:711MCceyCBcFnzjGY4Q7Un"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 98183
+    },
+    "genres" : [ "baile pop", "brazilian hip hop" ],
+    "href" : "https://api.spotify.com/v1/artists/6syQjkQSMIrzw5cFnNRheo",
+    "id" : "6syQjkQSMIrzw5cFnNRheo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/1d117d812344dc028130183cfad895f0abb4145d",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/69decc857cef607801c335ac9d64f851869cd24f",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/cb3db7573155f643483a9990fc2f2e255b6bd09a",
+      "width" : 160
+    } ],
+    "name" : "Rincon Sapiência",
+    "popularity" : 57,
+    "type" : "artist",
+    "uri" : "spotify:artist:6syQjkQSMIrzw5cFnNRheo"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 1303062
+    },
+    "genres" : [ "brazilian punk", "mpb" ],
+    "href" : "https://api.spotify.com/v1/artists/6tw6EpC9RgmSRZiZg0n22t",
+    "id" : "6tw6EpC9RgmSRZiZg0n22t",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/03023830927d1cc472dd35938cb7ee1c1718b290",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/f0dcfb9caa89fe37c0859cb4f3f1a05b9fe5d5db",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/cd3cbcf5b02bb07d345ab672acdd96839229238b",
+      "width" : 64
+    } ],
+    "name" : "Legião Urbana",
+    "popularity" : 69,
+    "type" : "artist",
+    "uri" : "spotify:artist:6tw6EpC9RgmSRZiZg0n22t"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 42106
+    },
+    "genres" : [ "baile pop", "brazilian indie", "mpb", "rock gaucho" ],
+    "href" : "https://api.spotify.com/v1/artists/24me6m3bV7l2rnUwaXV0Tj",
+    "id" : "24me6m3bV7l2rnUwaXV0Tj",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/6e27e6e578dd1a354b87f0e50c93759cb56bb242",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/edd02b79f7eee76d86c0b626fc2f8a9e07aea8e4",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/0eb8dd9b4a46ee9aaf3c09bf01bcf5f88914e5ca",
+      "width" : 160
+    } ],
+    "name" : "Maglore",
+    "popularity" : 49,
+    "type" : "artist",
+    "uri" : "spotify:artist:24me6m3bV7l2rnUwaXV0Tj"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 1070952
+    },
+    "genres" : [ "baile pop", "brazilian electronica", "deep funk carioca" ],
+    "href" : "https://api.spotify.com/v1/artists/14D0I0RYqvIorkPL2EWoQh",
+    "id" : "14D0I0RYqvIorkPL2EWoQh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5b16de2601aebb8f39d553abe8c0682dc3dcc492",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/6f6fa2dc2d43255b8937cc64de0e5570d51768ad",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/fd5e5ebeb8593a04a54de90456c56ea3e2b338b8",
+      "width" : 160
+    } ],
+    "name" : "MC WM",
+    "popularity" : 71,
+    "type" : "artist",
+    "uri" : "spotify:artist:14D0I0RYqvIorkPL2EWoQh"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 7290127
+    },
+    "genres" : [ "dance pop", "pop", "pop christmas", "post-teen pop" ],
+    "href" : "https://api.spotify.com/v1/artists/6S2OmqARrzebs0tKUEyXyp",
+    "id" : "6S2OmqARrzebs0tKUEyXyp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/2aa6c96a7d255e76fe654160272a1d2bb3e2054d",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/0fd4ad1d2869ef698a359027ad6c70741845e8a9",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/70b7935261389af1b8ec9b2526b37c4caf6b1fd0",
+      "width" : 160
+    } ],
+    "name" : "Demi Lovato",
+    "popularity" : 90,
+    "type" : "artist",
+    "uri" : "spotify:artist:6S2OmqARrzebs0tKUEyXyp"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 1854274
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/1sPg5EHuQXTMElpZ4iUgXe",
+    "id" : "1sPg5EHuQXTMElpZ4iUgXe",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/60daad90ec6759516713438c2ce557fde80b03ce",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/36761799b8c01016fec118d082f5c1ae31aa2b80",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/3ce6101b19193d5f2654556c0a01b4f161112869",
+      "width" : 160
+    } ],
+    "name" : "Anavitória",
+    "popularity" : 73,
+    "type" : "artist",
+    "uri" : "spotify:artist:1sPg5EHuQXTMElpZ4iUgXe"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 137242
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/5M06IyTZgyRlWeNjazqsZK",
+    "id" : "5M06IyTZgyRlWeNjazqsZK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5d52131039726a0ecdcd9611d52117479865e504",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/97e188195f234c65af385d6e59e8a8e4e446829a",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/a12e5ab3ebf2324732557170a4702db97081b0fb",
+      "width" : 160
+    } ],
+    "name" : "Gabriel Elias",
+    "popularity" : 56,
+    "type" : "artist",
+    "uri" : "spotify:artist:5M06IyTZgyRlWeNjazqsZK"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 2179855
+    },
+    "genres" : [ "brazilian hip hop" ],
+    "href" : "https://api.spotify.com/v1/artists/2zGf6lwQ9PxXdoeo5XXP2K",
+    "id" : "2zGf6lwQ9PxXdoeo5XXP2K",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0775aeb763c7fdda09d5fe8830195afccb26dc9c",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/f6adaf9acbe1ea9f7d0c5bd32cf69ebd818d526e",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/8f4d1408e5eac21dd68ed64f27b542b21567447b",
+      "width" : 160
+    } ],
+    "name" : "Projota",
+    "popularity" : 72,
+    "type" : "artist",
+    "uri" : "spotify:artist:2zGf6lwQ9PxXdoeo5XXP2K"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 2870
+    },
+    "genres" : [ "baile pop" ],
+    "href" : "https://api.spotify.com/v1/artists/43jyzP3h86XvtC8FQm4ow3",
+    "id" : "43jyzP3h86XvtC8FQm4ow3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3c0643652cbfae88fcf0abb9dd06698da53c3a87",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/7b7105a71126e58141d6b2bbcbcd3b4e915f665d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/5c704020dce93320f95121e351efd24f72a007ad",
+      "width" : 64
+    } ],
+    "name" : "ÀTTØØXXÁ",
+    "popularity" : 36,
+    "type" : "artist",
+    "uri" : "spotify:artist:43jyzP3h86XvtC8FQm4ow3"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/36SRwzRkX5zW3ABjJrevqX"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 10874
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/36SRwzRkX5zW3ABjJrevqX",
+    "id" : "36SRwzRkX5zW3ABjJrevqX",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a5866831d2fd4812ae9c1cdca60aca8dc7533008",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/0b62e6b482549d4aa12262645ebc9ca2256eea15",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/71e2b6a85dd73552ddc3d4e0591ff8aa6619c161",
+      "width" : 160
+    } ],
+    "name" : "Dadá Boladão",
+    "popularity" : 45,
+    "type" : "artist",
+    "uri" : "spotify:artist:36SRwzRkX5zW3ABjJrevqX"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 6311769
+    },
+    "genres" : [ "alternative metal", "alternative rock", "funk metal", "permanent wave", "post-grunge", "rock" ],
+    "href" : "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+    "id" : "0L8ExT028jH3ddEcZwqJJ5",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5b2072e522bf3324019a8c2dc3db20116dff0b87",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/9527e700b5c80aa67350d5de0da10a0aa754fcb1",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/a7af6412632c81ebfb5e39495aa3dacc564cb22b",
+      "width" : 160
+    } ],
+    "name" : "Red Hot Chili Peppers",
+    "popularity" : 85,
+    "type" : "artist",
+    "uri" : "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1qIAsl3tIpnX0j4BMi0l5g"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 150329
+    },
+    "genres" : [ "brazilian hip hop" ],
+    "href" : "https://api.spotify.com/v1/artists/1qIAsl3tIpnX0j4BMi0l5g",
+    "id" : "1qIAsl3tIpnX0j4BMi0l5g",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/eb46b46e6e95ba20f7c79e286084507b2572924c",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/f1576714cce6190474a3d7ce06ee951acb82bccd",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/1814f7889b449089607b5e336b4a64e3d13f96aa",
+      "width" : 160
+    } ],
+    "name" : "Forfun",
+    "popularity" : 55,
+    "type" : "artist",
+    "uri" : "spotify:artist:1qIAsl3tIpnX0j4BMi0l5g"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 107780
+    },
+    "genres" : [ "brazilian gospel", "louvor" ],
+    "href" : "https://api.spotify.com/v1/artists/6lt44Vvyv8XwLxX7jtQ92j",
+    "id" : "6lt44Vvyv8XwLxX7jtQ92j",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/89e2d8dfe626a4821e1dab4b419f6bc74b75da35",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/910bfe29a1e2907163ca1d3a9f416f79a80edd8c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/52d0d5d519b59a5b31099389396ad4028d326855",
+      "width" : 64
+    } ],
+    "name" : "Palavrantiga",
+    "popularity" : 48,
+    "type" : "artist",
+    "uri" : "spotify:artist:6lt44Vvyv8XwLxX7jtQ92j"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 5075820
+    },
+    "genres" : [ ],
+    "href" : "https://api.spotify.com/v1/artists/1elUiq4X7pxej6FRlrEzjM",
+    "id" : "1elUiq4X7pxej6FRlrEzjM",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e14dac92c01c6d28f7e0cec93151d5fe0b9a905e",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/c57644341ec6d0bc194fa1bd4f4e53963f04e3cc",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/985e7d759564a5574e3db7256e322c5c86f13195",
+      "width" : 160
+    } ],
+    "name" : "Jorge & Mateus",
+    "popularity" : 85,
+    "type" : "artist",
+    "uri" : "spotify:artist:1elUiq4X7pxej6FRlrEzjM"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 65361
+    },
+    "genres" : [ "baile pop" ],
+    "href" : "https://api.spotify.com/v1/artists/7L1Xcga52ld20VEmDzE6Hz",
+    "id" : "7L1Xcga52ld20VEmDzE6Hz",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/0f29f959703042fb10a5e9bec192e3f252bca9d4",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/8245c327ebee2d397c56006ddb987918a951d17c",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/0771dcfb55f6067d0e743c9b8f01d5ec33374e36",
+      "width" : 160
+    } ],
+    "name" : "Ana Muller",
+    "popularity" : 46,
+    "type" : "artist",
+    "uri" : "spotify:artist:7L1Xcga52ld20VEmDzE6Hz"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 444740
+    },
+    "genres" : [ "brazilian electronica", "brazilian hip hop" ],
+    "href" : "https://api.spotify.com/v1/artists/0GWNKI3VPEcJsOIEhUjmxd",
+    "id" : "0GWNKI3VPEcJsOIEhUjmxd",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d88be22f11285126b5d9ab72549a7817452ae683",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/3a5a3cf1592a11bf042cb8a4f78b8db0fcb461a6",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/39cfebf650b4b163f4031ddf52a93160f5080d9a",
+      "width" : 160
+    } ],
+    "name" : "Rael",
+    "popularity" : 64,
+    "type" : "artist",
+    "uri" : "spotify:artist:0GWNKI3VPEcJsOIEhUjmxd"
+  } ],
+  "total" : 50,
+  "limit" : 20,
+  "offset" : 0,
+  "previous" : null,
+  "href" : "https://api.spotify.com/v1/me/top/artists",
+  "next" : "https://api.spotify.com/v1/me/top/artists?limit=20&offset=20"
+}
